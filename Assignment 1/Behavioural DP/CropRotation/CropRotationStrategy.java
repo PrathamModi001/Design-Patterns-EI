@@ -1,4 +1,4 @@
-package CropRotation; // Strategy interface for crop rotation
+package croprotation; // Strategy interface for crop rotation
 
 // Strategy interface for crop rotation
 interface CropRotationStrategy {
