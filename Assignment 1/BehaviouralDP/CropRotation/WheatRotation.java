@@ -1,4 +1,4 @@
-package croprotation; // Strategy interface for crop rotation
+package BehaviouralDP.CropRotation;
 
 class WheatRotation implements CropRotationStrategy {
     @Override

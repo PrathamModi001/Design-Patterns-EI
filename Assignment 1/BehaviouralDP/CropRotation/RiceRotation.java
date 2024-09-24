@@ -1,4 +1,4 @@
-package croprotation; // Concrete strategy for rice rotation
+package BehaviouralDP.CropRotation;
 
 class RiceRotation implements CropRotationStrategy {
     @Override

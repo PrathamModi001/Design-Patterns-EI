@@ -1,4 +1,4 @@
-package croprotation; // Strategy interface for crop rotation
+package BehaviouralDP.CropRotation;
 
 // Strategy interface for crop rotation
 interface CropRotationStrategy {
