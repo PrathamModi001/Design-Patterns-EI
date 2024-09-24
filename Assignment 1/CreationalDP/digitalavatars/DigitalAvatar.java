@@ -1,4 +1,4 @@
-package digitalavatars; // Concrete Prototype implementation
+package CreationalDP.digitalavatars; // Concrete Prototype implementation
 
 public class DigitalAvatar implements Avatar {
     private String name; // Avatar name

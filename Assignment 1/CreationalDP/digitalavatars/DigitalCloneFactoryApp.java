@@ -1,7 +1,7 @@
-package digitalavatars; // Main application class
+package CreationalDP.digitalavatars; // Main application class
 
-import digitalavatars.DigitalAvatar; // Import required classes
-import digitalavatars.AvatarFactory;
+import CreationalDP.digitalavatars.DigitalAvatar; // Import required classes
+import CreationalDP.digitalavatars.AvatarFactory;
 
 public class DigitalCloneFactoryApp {
     public static void main(String[] args) {

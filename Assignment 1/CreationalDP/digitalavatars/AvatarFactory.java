@@ -1,4 +1,4 @@
-package digitalavatars; // Factory for creating avatars
+package CreationalDP.digitalavatars; // Factory for creating avatars
 
 import java.util.HashMap;
 import java.util.Map;
