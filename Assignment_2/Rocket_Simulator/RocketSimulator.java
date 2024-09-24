@@ -40,6 +40,8 @@ public class RocketSimulator {
             } catch (Exception e) {
                 logger.log("An unexpected error occurred.");
             }
+            // close the scanner
+            scanner.close();
         }
     }
 
