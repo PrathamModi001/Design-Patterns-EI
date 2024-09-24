@@ -10,6 +10,4 @@ Core Thinking for Crop Rotation Application
 
 5. **Easy Expansion**: Additional crop rotation strategies can be easily added without modifying existing code, adhering to the Open/Closed Principle.
 
-6. **Best Practices**: Maintains a clear and organized structure, with minimal comments focused on explaining the core functionality.
-
 This design promotes flexibility and scalability, allowing for future expansion of crop rotation strategies as agricultural practices evolve.
