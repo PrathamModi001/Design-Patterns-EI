@@ -1,4 +1,4 @@
-package VR_Env;
+package CreationalDP.VR_Env;
 
 public class VRWorldGenerator {
     private VREnvironmentFactory factory; // Environment factory reference

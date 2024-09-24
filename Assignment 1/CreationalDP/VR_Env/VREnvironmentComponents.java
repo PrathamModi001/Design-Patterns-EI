@@ -1,4 +1,4 @@
-package VR_Env;
+package CreationalDP.VR_Env;
 
 
 // Abstract products for VR environment
